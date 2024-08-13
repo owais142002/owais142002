@@ -4,9 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisahmed&label=Profile%20views&color=0e75b6&style=flat" alt="owais-ahmed" /> </p>
 
-- 🔭 I’m currently working with **Python**, **Machine Learning**, **PyTorch**, **Object Detection**, **Object Segmentation**, and other **Computer Vision** technologies.
-- 🌱 I’m expanding my knowledge in **Natural Language Processing**.
-- 👯 I’m open to collaborations on **Computer Vision Research** and **AI-driven projects**.
+- 🔭 I’m currently working with **Python**, **Machine Learning**, **AI**, **Computer Vision**, and **Object Detection**. My recent work includes designing Django backend solutions, developing multi-action agents with Langchain, and implementing YOLO models for object detection and tracking.
+- 🌱 I’m expanding my expertise in **Natural Language Processing**, **Large Language Models**, and **Data Science**. I’m involved in independent research on LLMs and enhancing AI-driven solutions.
+- 👯 I’m looking to collaborate on **Computer Vision Research**, **AI-driven projects**, **Advanced Machine Learning applications**, and **Real-time AI Systems**.
+- 🚀 I have experience in **developing backend infrastructures**, **creating APIs**, and **integrating AI models** with various technologies including Flask, Quart, and Django.
+- 🧠 My projects include **Facial Emotion Detection**, **Road Object Detection and Tracking**, **Real Estate Chatbots**, and **AI-powered Data Science Assistants**.
+- 🌟 I’m passionate about **innovating in AI** and **improving automation** through advanced technologies. My work spans from **robotic manipulation** to **demand forecasting** and **chatbot development**.
+- 💡 I’m open to opportunities that involve **cutting-edge research**, **collaborative development**, and **impactful AI solutions**.
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
