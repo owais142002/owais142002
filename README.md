@@ -14,5 +14,5 @@
   <a href="mailto:owaisahmed142002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/owaisahmed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/owaisahmed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.upwork.com/freelancers/~01d0f80d1b8d230d23"><img src="https://img.icons8.com/bubbles/50/000000/upwork.png" alt="Upwork"/></a>
+  <a href="https://www.upwork.com/freelancers/~01d0f80d1b8d230d23"><img src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" alt="Upwork"/></a>
 </p>
