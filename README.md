@@ -10,7 +10,7 @@
 - 🚀 I have experience in **developing backend infrastructures**, **creating APIs**, and **integrating AI models** with various technologies including Flask, Quart, and Django.
 - 🧠 My projects include **Facial Emotion Detection**, **Road Object Detection and Tracking**, **Real Estate Chatbots**, and **AI-powered Data Science Assistants**.
 - 🌟 I’m passionate about **innovating in AI** and **improving automation** through advanced technologies. My work spans from **robotic manipulation** to **demand forecasting** and **chatbot development**.
-- 💡 I’m open to opportunities that involve **cutting-edge research**, **collaborative development**, and **impactful AI solutions**.
+- 💡 I’m open to opportunities that involve **research**, **collaborative development**, and **impactful AI solutions**.
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
