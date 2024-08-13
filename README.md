@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/owaisahmed/" target="blank">Owais Ahmed</a> 👋</h1> 
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/owais-ahmed-749911192/" target="blank">Owais Ahmed</a> 👋</h1> 
 <p align="center"> A Software Engineer specializing in Machine Learning and Computer Vision. </p>
 <br>
 
@@ -17,7 +17,8 @@
 
 <p align="center">
   <a href="mailto:owaisahmed142002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/owaisahmed"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/owaisahmed/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.upwork.com/freelancers/~01d0f80d1b8d230d23"><img src="https://img.icons8.com/?size=50&id=whwDjQbvJcmB&format=png" alt="Upwork"/></a>
+  <a href="https://github.com/owais142002"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/owais-ahmed-749911192/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.upwork.com/freelancers/~01c67e7e5c16971fe2"><img src="https://img.icons8.com/?size=50&id=whwDjQbvJcmB&format=png" alt="Upwork"/></a>
+  <a href="https://flowcv.com/resume/304jcfpqki"><img src="https://img.icons8.com/?size=50&id=115635&format=png" alt="Resume"/></a>
 </p>
