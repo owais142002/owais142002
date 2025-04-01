@@ -6,7 +6,7 @@
 
 - 🔭 I specialize in **Computer Vision**, **Robotics**, **Software Development**, and **Large Language Models (LLMs)**, with expertise in Python and JavaScript programming languages. My work focuses on developing intelligent systems integrating machine learning, object detection, and AI-driven automation across various applications.
 
-- 💡 I am passionate about advancing AI-driven automation and bridging the gap between software and robotics. As I begin my PhD journey at **Kennesaw State University, United States**, my research will focus on the intersection of Computer Engineering and Aerospace Engineering, contributing to innovative solutions in intelligent automation and control systems.
+- 💡 I am passionate about advancing AI-driven automation and bridging the gap between software and robotics. As I begin my PhD journey at **Kennesaw State University, United States**, my research will focus on the intersection of Computer Engineering and Aerospace Engineering, contributing to innovative solutions in intelligent automation and aerial systems.
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
