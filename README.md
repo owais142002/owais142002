@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/owais-ahmed-749911192/" target="blank">Owais Ahmed</a> 👋</h1> 
-<p align="center"> A PhD Student at Kennesaw State University, United States.</p>
+<p align="center"> Incoming PhD Student in Interdisciplinary Engineering (Computer Science and Aerospace Engineering) at Kennesaw State University, United States in Fall 2025.</p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisahmed&label=Profile%20views&color=0e75b6&style=flat" alt="owais-ahmed" /> </p>
